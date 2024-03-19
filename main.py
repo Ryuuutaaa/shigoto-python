@@ -23,5 +23,5 @@ elif confirm_answer == "y" :
     else : 
         print(f"{nama_user} KAMU KALAH ryupy tidak ada disitu, goa berada di nomor {ryupy_position}")
 else : 
-    print("program berakhir silahkan coba lagii")
+    print("program berakhir silahkan coba lagi nantiiii")
     exit()
